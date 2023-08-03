@@ -146,6 +146,16 @@ import {
       company: "Government of Ontario",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
+
+    {
+      testimonial:
+        "We had a great experience with her. She has excellent technical and communication skills. She supported PowerBI Dashboards, VuGen scripting for automated load testing of applications, general purpose automation and integration scripts using PowerShell and demonstrating the work using PowerPoint slide decks. She will be an asset to any organization.",
+      name: "Mohammad Nadeem",
+      designation: "Manager, Management and Monitoring Tools Team",
+      company: "Government of Ontario",
+      image: "https://randomuser.me/api/portraits/women/4.jpg",
+    },
+    
     
   ];
   
