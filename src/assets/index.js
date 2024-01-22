@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import ilp from "./company/ilp.jpg";
 import ministry from "./company/ministry.png";
 import hoopla from "./company/hoopla.jpeg";
+import brock from "./company/brock.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -57,4 +58,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  brock
 };
