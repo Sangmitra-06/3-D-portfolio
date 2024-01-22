@@ -96,19 +96,7 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Event Manager",
-      company_name: "Hoopla Club",
-      icon: hoopla,
-      iconBg: "#fff",
-      date: "June 2019 - July 2019",
-      points: [
-        "Orchestrated a comprehensive mental health awareness campaign at school, employing research, community outreach, and team building to gather resources and raise awareness on mental health. ",
-        "Demonstrated strong leadership skills, effectively managing a team of three through role allocation, task delegation, clear communication, and scheduled review sessions, ensuring structured collaboration and timely task completion ",
-        "Facilitated impactful activities with students and teachers, highlighting the impact of mental health on students, thereby increasing awareness among students and parents. ",
-        "Received positive feedback from parents and stakeholders, and the success of the campaign led to a collaborative agreement between the school and the Hoopla Club for future mental health awareness workshops, emphasizing the significance of the initiative and its potential for ongoing impact. ",
-      ],
-    },
+    
     {
       title: "Mathematics Content Lead and Project Manager",
       company_name: "India Literacy Project",
@@ -126,12 +114,22 @@ import {
       company_name: "Ministry of Public and Business Service Delivery of Ontario",
       icon: ministry,
       iconBg: "#fff",
-      date: "Jan 2023 - Present",
+      date: "Jan 2023 - Sep 2023",
       points: [
         "Streamlined server decommissioning tasks through PowerShell automation, resulting in substantial time savings and enhanced productivity. ",
         "Developed a Power BI tool by seamlessly integrating server data using Power Query, enabling comprehensive monitoring of storage, utilization, and availability according to the organization’s server infrastructure. ",
         "Conducted meticulous load testing for esteemed applications, including FCMS-FRO, SAMS, HCD-ISCIS, Justice Centre Systems Portal, and EDU, facilitating pre-production testing and empowering data-driven decision making. ",
         "Demonstrated proficiency in Linux server administration, leveraging automation to establish a seamless ticket forwarding system that prioritizes and expedites high-priority tickets between tools, ensuring efficient incident resolution and optimized workflow management.",
+      ],
+    },
+    {
+      title: "One on one tutor",
+      company_name: "Learning Services at Brock University",
+      icon: ministry,
+      iconBg: "#fff",
+      date: "Jan 2024 - Present",
+      points: [
+        "Committed tutor specializing in first to third-year mathematics and computer science coursework at Brock University, fostering a conducive learning environment and assisting students in achieving academic excellence."
       ],
     },
     
