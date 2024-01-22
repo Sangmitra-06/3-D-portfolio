@@ -18,6 +18,7 @@ import {
     ilp,
     hoopla,
     ministry,
+    brock,
     carrent,
     jobit,
     tripguide,
@@ -125,7 +126,7 @@ import {
     {
       title: "One on one tutor",
       company_name: "Learning Services at Brock University",
-      icon: ministry,
+      icon: brock,
       iconBg: "#fff",
       date: "Jan 2024 - Present",
       points: [
